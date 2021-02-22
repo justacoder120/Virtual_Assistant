@@ -1,5 +1,5 @@
 # Virtual_Assistant
- An alpha version of an assistant that takes voice commands to search on google with few other commands check README file for more commands
+**_An alpha version of an assistant that takes voice commands to search on google with few other commands._**
 
 ## Installation
 Use the following bash command to install all the requirements
